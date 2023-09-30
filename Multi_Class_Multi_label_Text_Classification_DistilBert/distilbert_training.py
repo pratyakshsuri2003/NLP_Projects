@@ -1,3 +1,6 @@
+'''(c) [2023] [PRATYAKSH SURI]
+Unauthorized use OR reproduction OR copy-pasting is prohibited.
+'''
 import tensorflow as tf
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -12,7 +15,7 @@ BATCH_SIZE = 16
 N_EPOCHS = 100
 
 # Read the Excel file
-df = pd.read_excel("/home/pratyaksh.suri/Distilbert_Dataset/Cleaned_50_5_category_test_preprocessed_stopwords.xlsx")
+df = pd.read_excel("F:/Distilbert_Dataset/Cleaned_50_5_category_test_preprocessed_stopwords.xlsx")
 
 x = df["text"].astype(str).tolist()
 y = df["actual"].tolist()
