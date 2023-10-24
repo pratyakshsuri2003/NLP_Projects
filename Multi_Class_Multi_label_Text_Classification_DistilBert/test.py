@@ -1,3 +1,7 @@
+'''THIS IS CODE IS LICENCED PROPERTY OF THE AUTHOR. HENCE USING WOTHOUT PROPER PERMISSION AND CONCENT IS PROHIBITED.
+<< AUTHOR: PRATYAKSH SURI >>
+'''
+
 import tensorflow as tf
 import pandas as pd
 from sklearn.model_selection import train_test_split
