@@ -1,5 +1,5 @@
-'''This is code is licenced property of the author and without permission using it is prohibited.
-AUTHOR: PRATYAKSH SURI
+'''Copyright (c) [2023] [PRATYAKSH SURI]
+   Unauthorized use, reproduction, or copying is prohibited.
 '''
 
 import torch
