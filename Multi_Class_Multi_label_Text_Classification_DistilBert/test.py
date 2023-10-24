@@ -1,6 +1,5 @@
-'''THIS IS CODE IS LICENCED PROPERTY OF THE AUTHOR. HENCE USING WOTHOUT PROPER PERMISSION AND CONCENT IS PROHIBITED.
-<< AUTHOR: PRATYAKSH SURI >>
-'''
+# Copyright (c) [2023] [PRATYAKSH SURI]
+# Unauthorized use, reproduction, or copying is prohibited.
 
 import tensorflow as tf
 import pandas as pd
