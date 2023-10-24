@@ -1,3 +1,7 @@
+'''This is code is licenced property of the author and without permission using it is prohibited.
+AUTHOR: PRATYAKSH SURI
+'''
+
 import torch
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 
